@@ -12,7 +12,7 @@ if ! git diff-index --quiet HEAD --; then
     nano gitmsg
     git commit -F gitmsg
     git pull --no-commit
-    git push
+    git push 
     rm gitmsg
     printf "Finished commiting and merging of repo.\n"
 else
