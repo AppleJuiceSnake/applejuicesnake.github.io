@@ -1,2 +1,1 @@
-# dollop-os
-Apple Juice Snake's Operating System
+#DON'T LOOK AT ME I'M HIDEOUS
